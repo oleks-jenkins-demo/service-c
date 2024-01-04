@@ -1,0 +1,11 @@
+###
+GET http://localhost:8080/personaldd/service-a/api/a
+
+###
+GET http://localhost:8080/sit/service-b/api/hello
+
+###
+GET http://localhost/sit/service-a/api/a
+
+###
+GET http://localhost/personal/service-a/api/a
